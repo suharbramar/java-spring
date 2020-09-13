@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_251"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HibernateCore"/>
+	<classpathentry kind="lib" path="D:/Master/apache-tomcat-8.5.55/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Master/springjars/persistCore/persistence.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringCoreOthers"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PersistCore"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/persistjdbc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/springcore"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Misc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/test"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/spring-jdbc-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/spring-orm-3.2.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Master/spcorejars/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
